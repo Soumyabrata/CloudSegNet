@@ -3,6 +3,9 @@
 *.pyc
 .idea/
 dataset/
+*.hdf5
+*.txt
+*.npy
 
 .ipynb_checkpoints/
 results/balanced_random_sample/FPR_values.npy
@@ -51,7 +54,6 @@ data/night_images/night_scene_withAUG.h5
 data/night_images/night_withAUG_GT.h5
 results/balanced/from-boole-exp10-epoch200/
 results/combined/result-from-boole/
-results/withAUG_dataset/
 
 data/day_images/day_GT.h5
 data/day_images/day_scene.h5
