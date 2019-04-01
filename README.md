@@ -29,7 +29,7 @@ Please cite the above paper if you intend to use whole/part of the code. This co
 
 ### Additional helper scripts
 
-+ calculate_score.py: Helper script needed during ROC computation
-+ create_dataset.py: Splits datasets into training and testing sets
-+ roc_items.py: Helper script during ROC computation
-+ score_card.py: Computes the different evaluation scores
++ `calculate_score.py`: Helper script needed during ROC computation
++ `create_dataset.py`: Splits datasets into training and testing sets
++ `roc_items.py`: Helper script during ROC computation
++ `score_card.py`: Computes the different evaluation scores
