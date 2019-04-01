@@ -4,7 +4,7 @@ With the spirit of reproducible research, this repository contains all the codes
 
 > S. Dev, A. Nautiyal, Y. H. Lee, S. Winkler, CloudSegNet: A Deep Network for Nychthemeron Cloud Segmentation, IEEE Geoscience and Remote Sensing Letters, 2019.
 
-![summary](./results/adsummary.png)
+![summary](./results/summary.png)
 
 Please cite the above paper if you intend to use whole/part of the code. This code is only for academic and research purposes.
 
